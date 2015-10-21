@@ -1,0 +1,6 @@
+D:\Workspace\Aspnet.Login\FormsAuthWeb\bin\FormsAuthWeb.dll.config
+D:\Workspace\Aspnet.Login\FormsAuthWeb\bin\FormsAuthWeb.dll
+D:\Workspace\Aspnet.Login\FormsAuthWeb\bin\FormsAuthWeb.pdb
+D:\Workspace\Aspnet.Login\FormsAuthWeb\obj\Debug\FormsAuthWeb.csprojResolveAssemblyReference.cache
+D:\Workspace\Aspnet.Login\FormsAuthWeb\obj\Debug\FormsAuthWeb.dll
+D:\Workspace\Aspnet.Login\FormsAuthWeb\obj\Debug\FormsAuthWeb.pdb

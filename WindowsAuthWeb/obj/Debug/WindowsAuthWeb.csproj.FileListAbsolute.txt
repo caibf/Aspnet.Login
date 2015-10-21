@@ -1,0 +1,6 @@
+D:\Workspace\Aspnet.Login\WindowsAuthWeb\bin\WindowsAuthWeb.dll.config
+D:\Workspace\Aspnet.Login\WindowsAuthWeb\bin\WindowsAuthWeb.dll
+D:\Workspace\Aspnet.Login\WindowsAuthWeb\bin\WindowsAuthWeb.pdb
+D:\Workspace\Aspnet.Login\WindowsAuthWeb\obj\Debug\WindowsAuthWeb.dll
+D:\Workspace\Aspnet.Login\WindowsAuthWeb\obj\Debug\WindowsAuthWeb.pdb
+D:\Workspace\Aspnet.Login\WindowsAuthWeb\obj\Debug\WindowsAuthWeb.csprojResolveAssemblyReference.cache

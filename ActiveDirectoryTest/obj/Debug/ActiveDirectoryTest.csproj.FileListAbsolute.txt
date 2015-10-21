@@ -1,0 +1,6 @@
+D:\Workspace\Aspnet.Login\ActiveDirectoryTest\bin\Debug\ActiveDirectoryTest.exe.config
+D:\Workspace\Aspnet.Login\ActiveDirectoryTest\bin\Debug\ActiveDirectoryTest.exe
+D:\Workspace\Aspnet.Login\ActiveDirectoryTest\bin\Debug\ActiveDirectoryTest.pdb
+D:\Workspace\Aspnet.Login\ActiveDirectoryTest\obj\Debug\ActiveDirectoryTest.exe
+D:\Workspace\Aspnet.Login\ActiveDirectoryTest\obj\Debug\ActiveDirectoryTest.pdb
+D:\Workspace\Aspnet.Login\ActiveDirectoryTest\obj\Debug\ActiveDirectoryTest.csprojResolveAssemblyReference.cache

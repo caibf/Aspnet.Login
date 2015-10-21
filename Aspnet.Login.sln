@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows.Authentication", "Windows.Authentication", "{90F08997-48C5-46B9-8819-3C44FA35F571}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms.Authentication", "Forms.Authentication", "{AC48774C-8AF1-4002-826D-1606EBD33A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryTest", "ActiveDirectoryTest\ActiveDirectoryTest.csproj", "{8D9286E0-9506-4C63-8C99-094E2806C322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAuthWeb", "WindowsAuthWeb\WindowsAuthWeb.csproj", "{14335033-5689-4254-8561-F528A43D333F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAuthWinForm", "WindowsAuthWinForm\WindowsAuthWinForm.csproj", "{C536D57E-06BC-4DFD-BE46-F4BC22D9105A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAuthClient", "WindowsAuthClient\WindowsAuthClient.csproj", "{4F586A96-98D2-456A-87E6-E2005482C454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsAuthWeb", "FormsAuthWeb\FormsAuthWeb.csproj", "{FCC83051-122A-4795-8C20-CEBB86A70450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsAuthClient", "FormsAuthClient\FormsAuthClient.csproj", "{05535545-9DF2-4420-AD67-81BE57642A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9286E0-9506-4C63-8C99-094E2806C322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9286E0-9506-4C63-8C99-094E2806C322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9286E0-9506-4C63-8C99-094E2806C322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9286E0-9506-4C63-8C99-094E2806C322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14335033-5689-4254-8561-F528A43D333F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14335033-5689-4254-8561-F528A43D333F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14335033-5689-4254-8561-F528A43D333F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14335033-5689-4254-8561-F528A43D333F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C536D57E-06BC-4DFD-BE46-F4BC22D9105A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C536D57E-06BC-4DFD-BE46-F4BC22D9105A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C536D57E-06BC-4DFD-BE46-F4BC22D9105A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C536D57E-06BC-4DFD-BE46-F4BC22D9105A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F586A96-98D2-456A-87E6-E2005482C454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F586A96-98D2-456A-87E6-E2005482C454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F586A96-98D2-456A-87E6-E2005482C454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F586A96-98D2-456A-87E6-E2005482C454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC83051-122A-4795-8C20-CEBB86A70450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC83051-122A-4795-8C20-CEBB86A70450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC83051-122A-4795-8C20-CEBB86A70450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC83051-122A-4795-8C20-CEBB86A70450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05535545-9DF2-4420-AD67-81BE57642A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05535545-9DF2-4420-AD67-81BE57642A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05535545-9DF2-4420-AD67-81BE57642A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05535545-9DF2-4420-AD67-81BE57642A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8D9286E0-9506-4C63-8C99-094E2806C322} = {90F08997-48C5-46B9-8819-3C44FA35F571}
+		{14335033-5689-4254-8561-F528A43D333F} = {90F08997-48C5-46B9-8819-3C44FA35F571}
+		{C536D57E-06BC-4DFD-BE46-F4BC22D9105A} = {90F08997-48C5-46B9-8819-3C44FA35F571}
+		{4F586A96-98D2-456A-87E6-E2005482C454} = {90F08997-48C5-46B9-8819-3C44FA35F571}
+		{FCC83051-122A-4795-8C20-CEBB86A70450} = {AC48774C-8AF1-4002-826D-1606EBD33A57}
+		{05535545-9DF2-4420-AD67-81BE57642A83} = {AC48774C-8AF1-4002-826D-1606EBD33A57}
+	EndGlobalSection
+EndGlobal

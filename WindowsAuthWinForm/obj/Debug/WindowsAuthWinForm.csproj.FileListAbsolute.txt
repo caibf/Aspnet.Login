@@ -1,0 +1,9 @@
+D:\Workspace\Aspnet.Login\WindowsAuthWinForm\bin\Debug\WindowsAuthWinForm.exe.config
+D:\Workspace\Aspnet.Login\WindowsAuthWinForm\bin\Debug\WindowsAuthWinForm.exe
+D:\Workspace\Aspnet.Login\WindowsAuthWinForm\bin\Debug\WindowsAuthWinForm.pdb
+D:\Workspace\Aspnet.Login\WindowsAuthWinForm\obj\Debug\WindowsAuthWinForm.csprojResolveAssemblyReference.cache
+D:\Workspace\Aspnet.Login\WindowsAuthWinForm\obj\Debug\WindowsAuthWinForm.Form1.resources
+D:\Workspace\Aspnet.Login\WindowsAuthWinForm\obj\Debug\WindowsAuthWinForm.Properties.Resources.resources
+D:\Workspace\Aspnet.Login\WindowsAuthWinForm\obj\Debug\WindowsAuthWinForm.csproj.GenerateResource.Cache
+D:\Workspace\Aspnet.Login\WindowsAuthWinForm\obj\Debug\WindowsAuthWinForm.exe
+D:\Workspace\Aspnet.Login\WindowsAuthWinForm\obj\Debug\WindowsAuthWinForm.pdb

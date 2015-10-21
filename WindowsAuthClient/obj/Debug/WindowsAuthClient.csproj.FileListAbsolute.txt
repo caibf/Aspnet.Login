@@ -1,0 +1,6 @@
+D:\Workspace\Aspnet.Login\WindowsAuthClient\bin\Debug\WindowsAuthClient.exe.config
+D:\Workspace\Aspnet.Login\WindowsAuthClient\bin\Debug\WindowsAuthClient.exe
+D:\Workspace\Aspnet.Login\WindowsAuthClient\bin\Debug\WindowsAuthClient.pdb
+D:\Workspace\Aspnet.Login\WindowsAuthClient\obj\Debug\WindowsAuthClient.csprojResolveAssemblyReference.cache
+D:\Workspace\Aspnet.Login\WindowsAuthClient\obj\Debug\WindowsAuthClient.exe
+D:\Workspace\Aspnet.Login\WindowsAuthClient\obj\Debug\WindowsAuthClient.pdb

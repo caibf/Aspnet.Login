@@ -1,0 +1,7 @@
+D:\Workspace\Aspnet.Login\FormsAuthClient\bin\Debug\FormsAuthClient.exe.config
+D:\Workspace\Aspnet.Login\FormsAuthClient\bin\Debug\FormsAuthClient.exe
+D:\Workspace\Aspnet.Login\FormsAuthClient\bin\Debug\FormsAuthClient.pdb
+D:\Workspace\Aspnet.Login\FormsAuthClient\bin\Debug\FishDemoCodeLib.dll
+D:\Workspace\Aspnet.Login\FormsAuthClient\obj\Debug\FormsAuthClient.csprojResolveAssemblyReference.cache
+D:\Workspace\Aspnet.Login\FormsAuthClient\obj\Debug\FormsAuthClient.exe
+D:\Workspace\Aspnet.Login\FormsAuthClient\obj\Debug\FormsAuthClient.pdb
